@@ -46,4 +46,4 @@ jobs:
           name: reporte-pruebas
           path: reportes/
           if-no-files-found: warn
-          retention-days: 15
+          retention-days: 14
